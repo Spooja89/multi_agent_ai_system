@@ -46,3 +46,8 @@ Used across agents to ensure shared context and traceability.
 
 ## 📁 Folder Structure
 
+# Step 1: Install dependencies
+pip install -r requirements.txt
+
+# Step 2: Run the main entry script
+python main.py
